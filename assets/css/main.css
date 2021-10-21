@@ -1,0 +1,15 @@
+.btn-group-wrap {
+    height: 168px;
+    width: 365px;
+}
+
+.btn-edit {
+    width: 86px;
+    height: 36px;
+}
+
+.result-box{
+    width: 365px;
+    height: auto;
+    min-height: 60px;
+}
